@@ -12,5 +12,5 @@ Website to showcase original songs of an artist.
 - GitHub Issues & Projects
 
 ## Members
-- You (BA/PM)
-- Brother (Developer)
+- LaiSonThach (BA/PM)
+- LaiHienMinh (Developer)
